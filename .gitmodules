@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rclipboard"]
+	path = rclipboard
+	url = https://github.com/sbihorel/rclipboard
+	shallow = true
+	registered = true
