@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "pmxcode"]
+	path = pmxcode
+	url = https://github.com/sbihorel/pmxcode
 [submodule "rclipboard"]
 	path = rclipboard
 	url = https://github.com/sbihorel/rclipboard
